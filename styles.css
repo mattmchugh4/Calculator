@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.number-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.operator-button-container {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0px;
+}
+.clear {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px;
+}
+.window {
+    height: 30px;
+    width: 150px;
+    border: 2px solid black;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+}
